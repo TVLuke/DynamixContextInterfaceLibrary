@@ -1,6 +1,6 @@
 package org.ambientdynamix.contextplugins.context.action.device;
 
-import org.ambientdynamix.contextplugins.context.action.meta.IContextActio;
+import org.ambientdynamix.contextplugins.action.meta.IContextActio;
 
 public interface IIdentificationContextAction extends IContextActio
 {

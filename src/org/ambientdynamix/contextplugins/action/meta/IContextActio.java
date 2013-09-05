@@ -1,4 +1,4 @@
-package org.ambientdynamix.contextplugins.context.action.meta;
+package org.ambientdynamix.contextplugins.action.meta;
 
 /**
  * For now this is a dummy interface that allows for actions to implement their own interface even though this interface doesn't do anything.
