@@ -2,6 +2,10 @@
 
 This is a collection of interfaces that is supposed to be used to create a consesus on how to model context data types. 
 
+The idea is that anything that implements the _IContextInfo_ interface from _Ambeitn Dynamix_ also implements one of the interfaces from this library, making sure that it has the same methods as other data types that represent the same information.
+
+In addition the data type can implement interfaces from the _org.ambientdynamix.contextplugins.info.meta_ package to show that it provides further information.
+
 This is in its VERY early stages and has absolutely no claim to being complete yet.
 
 Several of my DynamixPlugins are using the library:
